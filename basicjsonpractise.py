@@ -1,3 +1,5 @@
+#test amacli yorumdur
+
 import json
 
 while True:
