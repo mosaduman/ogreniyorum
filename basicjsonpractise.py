@@ -1,5 +1,5 @@
 #test amacli yorumdur
-
+#nehaberiyidir
 import json
 
 while True:
