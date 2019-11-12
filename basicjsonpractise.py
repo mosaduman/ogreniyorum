@@ -1,5 +1,5 @@
-#test amacli yorumdur
-#nehaberiyidir
+# filename: sampledata.json
+
 import json
 
 while True:
